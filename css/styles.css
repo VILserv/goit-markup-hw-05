@@ -46,7 +46,6 @@ button {
   padding: 16px 32px;
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-  min-width: 169px;
   height: 56px;
   border: none;
   margin: auto;
@@ -554,7 +553,7 @@ body {
   pointer-events: none;
 }
 
-.backdrop.is-open {
+/* .backdrop.is-open { */
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
